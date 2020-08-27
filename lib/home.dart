@@ -40,7 +40,7 @@ class _HomeState extends State<Home> {
                               style: TextStyle(fontSize: 22),
                             ),
                             Text(
-                              "Dreamwalker",
+                              "Yusril",
                               style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
                             )
                           ],
