@@ -2,6 +2,9 @@
 
 Freelance App Design By Yusril Eka Mahendra
 
+![Freelance](https://user-images.githubusercontent.com/65325397/92462116-3ca54600-f1f4-11ea-8406-388539661fc1.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
